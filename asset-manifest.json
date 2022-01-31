@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RHWebpage/static/css/main.5bbc8c55.chunk.css",
+    "main.js": "/RHWebpage/static/js/main.c60ecfe7.chunk.js",
+    "main.js.map": "/RHWebpage/static/js/main.c60ecfe7.chunk.js.map",
+    "runtime-main.js": "/RHWebpage/static/js/runtime-main.6cd362e4.js",
+    "runtime-main.js.map": "/RHWebpage/static/js/runtime-main.6cd362e4.js.map",
+    "static/js/2.6f507cfe.chunk.js": "/RHWebpage/static/js/2.6f507cfe.chunk.js",
+    "static/js/2.6f507cfe.chunk.js.map": "/RHWebpage/static/js/2.6f507cfe.chunk.js.map",
+    "static/js/3.3f1486a3.chunk.js": "/RHWebpage/static/js/3.3f1486a3.chunk.js",
+    "static/js/3.3f1486a3.chunk.js.map": "/RHWebpage/static/js/3.3f1486a3.chunk.js.map",
+    "index.html": "/RHWebpage/index.html",
+    "static/css/main.5bbc8c55.chunk.css.map": "/RHWebpage/static/css/main.5bbc8c55.chunk.css.map",
+    "static/js/2.6f507cfe.chunk.js.LICENSE.txt": "/RHWebpage/static/js/2.6f507cfe.chunk.js.LICENSE.txt",
+    "static/media/Logo1.a5f39cf9.png": "/RHWebpage/static/media/Logo1.a5f39cf9.png",
+    "static/media/ansible.336109f8.jpeg": "/RHWebpage/static/media/ansible.336109f8.jpeg",
+    "static/media/contact3.43959bf9.svg": "/RHWebpage/static/media/contact3.43959bf9.svg",
+    "static/media/darkeight.a9c017e0.svg": "/RHWebpage/static/media/darkeight.a9c017e0.svg",
+    "static/media/edge.5baa561b.jpeg": "/RHWebpage/static/media/edge.5baa561b.jpeg",
+    "static/media/logo.f838ca74.png": "/RHWebpage/static/media/logo.f838ca74.png",
+    "static/media/openshift2.880ee142.jpeg": "/RHWebpage/static/media/openshift2.880ee142.jpeg",
+    "static/media/whiteHome.cd4f2247.jpeg": "/RHWebpage/static/media/whiteHome.cd4f2247.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cd362e4.js",
+    "static/js/2.6f507cfe.chunk.js",
+    "static/css/main.5bbc8c55.chunk.css",
+    "static/js/main.c60ecfe7.chunk.js"
+  ]
+}
